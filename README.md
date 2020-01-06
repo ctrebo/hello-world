@@ -1,7 +1,7 @@
 # hello-world
 
-Hello Hoomans
 
-This is my first time using GitHub/Laravel. 
-Ok, something about mySelf: I'm 15 years old and like to play football.
-I wanna be faster at coding so I came here.
+
+Yeah sometimes I wanna disappear like I just dont exist 
+Ill find a time machine and take me back whene I was six
+Maybe younger either way, I guess the point of it Would be to tell that little kid that hes gon'take a couple hits
